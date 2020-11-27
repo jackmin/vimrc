@@ -1,0 +1,1 @@
+/mnt/d/Works/dotfiles/my_configs.vim
